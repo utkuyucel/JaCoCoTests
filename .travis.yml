@@ -1,0 +1,5 @@
+language : java
+script : "mvn -f SurekliEntegrasyonOrnek/pom.xml clean install"
+jdk:
+  - openjdk8
+  
