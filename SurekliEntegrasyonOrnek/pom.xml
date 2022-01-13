@@ -37,7 +37,6 @@
         <executions>
             <execution>
                 <goals>
-		    <id>default-prepare-agent</id>
                     <goal>prepare-agent</goal>
                 </goals>
             </execution>
